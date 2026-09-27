@@ -1,0 +1,277 @@
+[26-Sep-2026 00:38:49 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_lpjs9p0ghj6unsdtl86qtb1i11, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 00:38:49 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 00:38:55 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_lpjs9p0ghj6unsdtl86qtb1i11, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 00:38:55 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 00:42:04 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_lpjs9p0ghj6unsdtl86qtb1i11, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 00:42:04 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/forgot-password.php on line 12
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:53:28 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:53:59 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:59 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:53:59 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:53:59 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/auth.php on line 18
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): open(/Applications/XAMPP/xamppfiles/temp//sess_p67ajn7voae9d5njlon4nqes1d, O_RDWR) failed: Permission denied (13) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:54:00 Africa/Kigali] PHP Warning:  session_start(): Failed to read session data: files (path: /Applications/XAMPP/xamppfiles/temp/) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/login.php on line 12
+[26-Sep-2026 05:56:43 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted_at' in 'where clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(42): db_query('SELECT\n        ...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/dashboard/super-admin.php(10): db_one('SELECT\n        ...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/dashboard/index.php(13): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 06:03:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:31 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smart_rent_pro.user_preferences' doesn't exist in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT pref_key...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/profile/preferences.php(28): db_all('SELECT pref_key...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 06:03:59 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:59 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:59 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:03:59 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:07:41 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'property_id' in 'where clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(42): db_query('SELECT\n       C...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/properties/view.php(30): db_one('SELECT\n       C...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 06:11:33 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:11:33 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:11:33 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:11:33 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:11:36 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:53) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/create.php on line 222
+[26-Sep-2026 06:11:42 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:53) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/create.php on line 222
+[26-Sep-2026 06:12:00 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:12:00 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:12:00 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:12:00 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:09 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:09 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:09 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:09 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:21 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:21 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:22 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:22 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:46 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:46 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:46 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:46 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:51 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:53) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/create.php on line 222
+[26-Sep-2026 06:13:56 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:56 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:56 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:13:56 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:15:03 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:15:03 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:15:03 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:15:03 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:44 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:44 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:44 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:44 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:54 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:54 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:54 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:54 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:57 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:57 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:57 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:17:57 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:18:40 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:18:40 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:18:40 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:18:40 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:19:22 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'terminated,
+       SUM(status = "renewed")                      AS renewed,
+ ...' at line 8 in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(42): db_query('SELECT\n       C...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/leases/index.php(10): db_one('SELECT\n       C...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 06:22:21 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:22:21 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:22:21 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:22:21 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:56:23 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:56:23 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:56:23 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 06:56:23 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:16:13 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smart_rent_pro.user_preferences' doesn't exist in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT pref_key...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/profile/preferences.php(28): db_all('SELECT pref_key...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 07:17:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:17:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:17:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:17:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:17:29 Africa/Kigali] PHP Fatal error:  Uncaught Error: Call to undefined method Endroid\QrCode\Writer\PngWriter::write() in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/setup-2fa.php:38
+Stack trace:
+#0 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/auth/setup-2fa.php on line 38
+[26-Sep-2026 07:17:36 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smart_rent_pro.user_preferences' doesn't exist in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT pref_key...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/profile/preferences.php(28): db_all('SELECT pref_key...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 07:33:43 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smart_rent_pro.user_preferences' doesn't exist in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT pref_key...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/profile/preferences.php(28): db_all('SELECT pref_key...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 07:35:32 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smart_rent_pro.user_preferences' doesn't exist in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT pref_key...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/profile/preferences.php(28): db_all('SELECT pref_key...', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 07:40:23 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:40:23 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:40:23 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:40:23 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:41:09 Africa/Kigali] PHP Warning:  mime_content_type(/Applications/XAMPP/xamppfiles/temp/phpKut5XJ): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/documents/upload.php on line 64
+[26-Sep-2026 07:41:18 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:41:18 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:41:19 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:41:19 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:42:05 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:42:05 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:42:05 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 07:42:05 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:32:25 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:32:25 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:32:25 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:32:25 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:34:01 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:53) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/invoices/create.php on line 165
+[26-Sep-2026 09:59:52 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:59:52 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:59:52 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 09:59:52 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 14:19:50 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 14:19:50 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 14:19:50 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 14:19:50 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[26-Sep-2026 14:49:02 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:49:04 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:49:31 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:49:32 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:49:32 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:49:36 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:50:16 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:50:17 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[26-Sep-2026 14:50:17 Africa/Kigali] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scope' in 'order clause' in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php:36
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(36): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php(48): db_query('SELECT r.id, r....', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/roles/ajax_list.php(46): db_all('SELECT r.id, r....', Array)
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/db.php on line 36
+[27-Sep-2026 13:30:09 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:09 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:09 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:09 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:30:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 13:32:24 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 13:32:36 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 13:32:44 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 13:32:47 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 13:32:51 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 13:32:55 Africa/Kigali] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/includes/sidebar.php:48) in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/maintenance/create.php on line 171
+[27-Sep-2026 14:26:34 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:26:34 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:26:34 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:26:34 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:27:22 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:27:22 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:27:22 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 14:27:22 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:12:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:12:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:12:16 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:12:16 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:05 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:05 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:05 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:05 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:08 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:08 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:08 Africa/Kigali] PHP Warning:  Undefined variable $USER in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
+[27-Sep-2026 15:27:08 Africa/Kigali] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/htdocs/smart-rent-pro/modules/units/ajax_list.php on line 10
